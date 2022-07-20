@@ -1,0 +1,16 @@
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\net5.0\ArrayAndArrayList.exe
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\net5.0\ArrayAndArrayList.deps.json
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\net5.0\ArrayAndArrayList.runtimeconfig.json
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\net5.0\ArrayAndArrayList.runtimeconfig.dev.json
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\net5.0\ArrayAndArrayList.dll
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\bin\Debug\net5.0\ArrayAndArrayList.pdb
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ArrayAndArrayList.csproj.AssemblyReference.cache
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ArrayAndArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ArrayAndArrayList.AssemblyInfoInputs.cache
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ArrayAndArrayList.AssemblyInfo.cs
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ArrayAndArrayList.csproj.CoreCompileInputs.cache
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ArrayAndArrayList.dll
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\refint\ArrayAndArrayList.dll
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ArrayAndArrayList.pdb
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ArrayAndArrayList.genruntimeconfig.cache
+C:\Users\ajink\Desktop\C# IncubXperts\ArrayAndArrayList\ArrayAndArrayList\obj\Debug\net5.0\ref\ArrayAndArrayList.dll
